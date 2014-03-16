@@ -1,4 +1,4 @@
-Changing readme
+New readme
 
 
 Symfony Standard Edition
