@@ -20,9 +20,12 @@ http://gitref.org/ (git) http://symfony.com/doc/current/index.html (symfony)
 
 ##Activitati complexe
 
+2. adaugati tooltips pe optiunile din meniul de navigare (creat mai sus) si o fereastra modala cu orice continut pe pagina principala (care se va incarca la incarcarea paginii). (vedeti bootstrap pentru detalii)
 2. creati un blog
 2. creati un sistem de ticketing (allows users to create tickets and content managers to respond to them.)
 2. implementati un formular de contact cu verificare CSRF
+2. implementati un backend care sa permita generarea de pagini in site si editarea lor (CMS-style)
+
 
 ##Notare:
 - activitatile de mai sus
