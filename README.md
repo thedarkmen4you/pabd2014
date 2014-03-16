@@ -11,14 +11,14 @@ Cititi pe Wiki - https://github.com/cipyk/pabd2014/wiki
 
 http://gitref.org/ (git) http://symfony.com/doc/current/index.html (symfony)
 
-Activitati simple
+#Activitati simple
 
 creati o pagina personala
 creati un meniu de navigare ce include toate paginile create
 creati o pagina "despre"
 creati o pagna "contact"
 
-Activitati complexe
+#Activitati complexe
 
 creati un blog
 creati un sistem de ticketing 
