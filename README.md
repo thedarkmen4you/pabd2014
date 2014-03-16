@@ -13,16 +13,15 @@ http://gitref.org/ (git) http://symfony.com/doc/current/index.html (symfony)
 
 #Activitati simple
 
-creati o pagina personala
-creati un meniu de navigare ce include toate paginile create
-creati o pagina "despre"
-creati o pagna "contact"
+1. creati o pagina personala
+1. creati un meniu de navigare ce include toate paginile create
+1. creati o pagina "despre"
+1. creati o pagna "contact"
 
 #Activitati complexe
 
-creati un blog
-creati un sistem de ticketing 
-(allows users to create tickets and content managers to respond to them.)
+2. creati un blog
+2. creati un sistem de ticketing (allows users to create tickets and content managers to respond to them.)
 
 Notare:
 - activitatile de mai sus
