@@ -1,4 +1,9 @@
+new edit for testing
+<<<<<<< HEAD
+New readme for meld
+=======
 Main REPOSITORY for PABD 2014 projects
+>>>>>>> 6bec35bda073ced3c192dbdf4611690de4e62740
 
 Veti folosi acest repository pentru a dezvolta / implementa o serie de module
 
