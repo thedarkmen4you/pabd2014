@@ -1,0 +1,4 @@
+daniel_my_page:
+    resource: "@DanielMyPageBundle/Resources/config/routing.yml"
+    prefix:   /
+
