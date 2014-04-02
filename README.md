@@ -1,9 +1,11 @@
-new edit for testing
+mamaliga
 <<<<<<< HEAD
-New readme for meld
+maria
+
 =======
 Main REPOSITORY for PABD 2014 projects
->>>>>>> 6bec35bda073ced3c192dbdf4611690de4e62740
+>>>>>>> 3413fb73e3c39bb39f5bfe800bc722b3b3d35390
+
 
 Veti folosi acest repository pentru a dezvolta / implementa o serie de module
 
