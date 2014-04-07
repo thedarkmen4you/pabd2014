@@ -1,3 +1,6 @@
+
+Acesta este un test!
+
 Symfony Standard Edition
 ========================
 
