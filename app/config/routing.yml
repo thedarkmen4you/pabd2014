@@ -1,3 +1,7 @@
+acme_hello:
+    resource: "@AcmeHelloBundle/Resources/config/routing.yml"
+    prefix:   /
+
 angelescuangelescu:
     resource: "@AngelescuangelescuBundle/Resources/config/routing.yml"
     prefix:   /
