@@ -19,7 +19,8 @@ class AppKernel extends Kernel
             new Tudor\PagPersBundle\TudorPagPersBundle(),
             new Angelescu\angelescuBundle\AngelescuangelescuBundle(),
             new Acme\HelloBundle\AcmeHelloBundle(),
-        );
+            new Sonia\PageBundle\SoniaPageBundle(),
+                    );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {
             $bundles[] = new Acme\DemoBundle\AcmeDemoBundle();
