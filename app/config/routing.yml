@@ -1,3 +1,7 @@
+andrei_personal_page:
+    resource: "@AndreiPersonalPageBundle/Resources/config/routing.yml"
+    prefix:   /
+
 sonia_page:
     resource: "@SoniaPageBundle/Resources/config/routing.yml"
     prefix:   /
@@ -13,4 +17,3 @@ angelescuangelescu:
 tudor_pag_pers:
     resource: "@TudorPagPersBundle/Resources/config/routing.yml"
     prefix:   /
-
