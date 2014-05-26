@@ -1,0 +1,7 @@
+parameters:
+#    raresrares.example.class: rares\raresBundle\Example
+
+services:
+#    raresrares.example:
+#        class: %raresrares.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

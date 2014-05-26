@@ -1,0 +1,9 @@
+raresrares_homepage:
+    pattern:  /rares
+    defaults: { _controller: raresraresBundle:Default:index }
+raresrares_homepage:
+    pattern:  /rares/
+    defaults: { _controller: raresraresBundle:Default:index }
+raresrares_homepage:
+    pattern:  /rares/{name}
+    defaults: { _controller: raresraresBundle:Default:index }
