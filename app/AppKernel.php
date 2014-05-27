@@ -18,6 +18,12 @@ class AppKernel extends Kernel
             new Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle(),
             new Daniel\MyPageBundle\DanielMyPageBundle(),
 
+            new Tudor\PagPersBundle\TudorPagPersBundle(),
+            new Angelescu\angelescuBundle\AngelescuangelescuBundle(),
+            new Acme\HelloBundle\AcmeHelloBundle(),
+            new Sonia\PageBundle\SoniaPageBundle(),
+            new Andrei\PersonalPageBundle\AndreiPersonalPageBundle(),
+            new ACiungan\BlogBundle\ACiunganBlogBundle()
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {
