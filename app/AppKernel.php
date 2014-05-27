@@ -21,7 +21,8 @@ class AppKernel extends Kernel
             new Acme\HelloBundle\AcmeHelloBundle(),
             new Sonia\PageBundle\SoniaPageBundle(),
             new Andrei\PersonalPageBundle\AndreiPersonalPageBundle(),
-            new ACiungan\BlogBundle\ACiunganBlogBundle()
+            new ACiungan\BlogBundle\ACiunganBlogBundle(),
+            new Ampoitan\NicuBundle\AmpoitanNicuBundle(),
         );
 
         if (in_array($this->getEnvironment(), array('dev', 'test'))) {
