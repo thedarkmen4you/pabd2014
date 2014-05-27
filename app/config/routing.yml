@@ -17,3 +17,7 @@ angelescuangelescu:
 tudor_pag_pers:
     resource: "@TudorPagPersBundle/Resources/config/routing.yml"
     prefix:   /
+a_ciungan_blog:
+    resource: "@ACiunganBlogBundle/Resources/config/routing.yml"
+    prefix:   /
+
