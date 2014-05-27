@@ -25,3 +25,7 @@ a_ciungan_blog:
     resource: "@ACiunganBlogBundle/Resources/config/routing.yml"
     prefix:   /
 
+daniel_my_page:
+    resource: "@DanielMyPageBundle/Resources/config/routing.yml"
+    prefix:   /
+
